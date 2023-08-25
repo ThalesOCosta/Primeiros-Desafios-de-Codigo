@@ -1,2 +1,2 @@
 # Primeiros-Desafios-de-Codigo
-Primeiros Desafios de Codigo em Python da DIO
+Neste repositorio estão os primeiros desafios de codigo em pythob do curso da DIO onde nele se encontram algumas situações onde são utilizadas algumas funções basicas do Python
